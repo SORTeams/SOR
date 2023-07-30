@@ -1,0 +1,5 @@
+TokenNode1@aws     6500
+TokenNode2@google  5700
+TokenNode3@azure   5350
+
+

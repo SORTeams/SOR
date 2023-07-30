@@ -1,0 +1,5 @@
+18.233.33.118  publicKeyNode01.pem        TokenNode1@aws
+34.70.33.77    publicKeyNode02.pem        TokenNode2@google
+40.87.111.2    publicKeyNode03.pem        TokenNode3@azure
+34.83.52.120   publicKeyDestination.pem   NoToken@des
+
